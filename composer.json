@@ -1,5 +1,5 @@
 {
-    "name": "silverstripe/contentreview",
+    "name": "sig-dan/contentreview",
     "type": "silverstripe-vendormodule",
     "description": "Flags pages for periodical author review (incl. reporting)",
     "homepage": "http://silverstripe.org",
